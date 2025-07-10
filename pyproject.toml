@@ -3,3 +3,4 @@ name = "hermes-for-web"
 version = "0.1.0"
 description = "A personalized web workbench for Hermes Agent with setup packs, artifacts, memory-aware onboarding, and local+remote model workflows."
 requires-python = ">=3.10"
+# match the style used in the rest of the module
